@@ -13,6 +13,7 @@ public class DecimalToBinary {
     }
 /**
  * param decimal harus diisi dengan bilangan positif
+ * return mengembalikan menjadi biner
  * */
     public static String decimalToBinary(int decimal) {
         if (decimal == 0) {
